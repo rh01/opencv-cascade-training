@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<stage49>
+  <maxWeakCount>21</maxWeakCount>
+  <stageThreshold>1.5119805932044983e-01</stageThreshold>
+  <weakClassifiers>
+    <_>
+      <internalNodes>
+        0 -1 57429 1.9962005317211151e-02</internalNodes>
+      <leafValues>
+        8.1384789943695068e-01 -7.7777779102325439e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 48503 4.5594698167406023e-04</internalNodes>
+      <leafValues>
+        1.0156711935997009e-01 7.1739858388900757e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 11373 -1.5681821852922440e-02</internalNodes>
+      <leafValues>
+        5.8997112512588501e-01 -1.2163539975881577e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 52631 -8.1736631691455841e-03</internalNodes>
+      <leafValues>
+        3.5496720671653748e-01 -2.3976007103919983e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 33852 3.9639021269977093e-03</internalNodes>
+      <leafValues>
+        -1.7309400439262390e-01 4.7895672917366028e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 34134 -2.3531849728897214e-04</internalNodes>
+      <leafValues>
+        4.2321750521659851e-01 -2.0465593039989471e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 74988 -1.0116385295987129e-02</internalNodes>
+      <leafValues>
+        -4.9431261420249939e-01 1.7553579807281494e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 33901 -1.0056882165372372e-03</internalNodes>
+      <leafValues>
+        3.2568660378456116e-01 -2.5325495004653931e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 63980 3.5829603672027588e-02</internalNodes>
+      <leafValues>
+        1.6772238910198212e-01 -4.9740654230117798e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 47403 1.5229496173560619e-02</internalNodes>
+      <leafValues>
+        -1.4868439733982086e-01 5.9121608734130859e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 64766 3.4533939324319363e-03</internalNodes>
+      <leafValues>
+        -1.4317747950553894e-01 5.1904898881912231e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 44297 5.6689968332648277e-03</internalNodes>
+      <leafValues>
+        -1.5073071420192719e-01 5.4315721988677979e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 31590 4.0914230048656464e-03</internalNodes>
+      <leafValues>
+        2.0612001419067383e-01 -4.5812001824378967e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 76352 -6.8387575447559357e-04</internalNodes>
+      <leafValues>
+        4.4647857546806335e-01 -1.9469325244426727e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 78300 5.6767673231661320e-03</internalNodes>
+      <leafValues>
+        1.9230653345584869e-01 -4.9114003777503967e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 17890 2.1779760718345642e-03</internalNodes>
+      <leafValues>
+        3.8484942913055420e-01 -2.3882210254669189e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 61473 8.2322172820568085e-03</internalNodes>
+      <leafValues>
+        1.0734236985445023e-01 -7.6726186275482178e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 77523 -2.4662027135491371e-03</internalNodes>
+      <leafValues>
+        4.7812914848327637e-01 -2.5440633296966553e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 71886 -3.5091056488454342e-03</internalNodes>
+      <leafValues>
+        3.9668786525726318e-01 -2.3268534243106842e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 8576 2.2432550787925720e-02</internalNodes>
+      <leafValues>
+        -1.3184976577758789e-01 6.3511884212493896e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 7902 -9.2653529718518257e-03</internalNodes>
+      <leafValues>
+        -2.8410911560058594e-01 3.2145339250564575e-01</leafValues></_></weakClassifiers></stage49>
+</opencv_storage>
